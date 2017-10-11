@@ -1,0 +1,10 @@
+C:\Users\Axandr\documents\visual studio 2017\Projects\EntitiesFrameworkProject\EntitiesFrameworkProject\bin\Debug\EntitiesFrameworkProject.exe.config
+C:\Users\Axandr\documents\visual studio 2017\Projects\EntitiesFrameworkProject\EntitiesFrameworkProject\bin\Debug\EntitiesFrameworkProject.exe
+C:\Users\Axandr\documents\visual studio 2017\Projects\EntitiesFrameworkProject\EntitiesFrameworkProject\bin\Debug\EntitiesFrameworkProject.pdb
+C:\Users\Axandr\documents\visual studio 2017\Projects\EntitiesFrameworkProject\EntitiesFrameworkProject\bin\Debug\EntityFramework.dll
+C:\Users\Axandr\documents\visual studio 2017\Projects\EntitiesFrameworkProject\EntitiesFrameworkProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Axandr\documents\visual studio 2017\Projects\EntitiesFrameworkProject\EntitiesFrameworkProject\bin\Debug\EntityFramework.xml
+C:\Users\Axandr\documents\visual studio 2017\Projects\EntitiesFrameworkProject\EntitiesFrameworkProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Axandr\documents\visual studio 2017\Projects\EntitiesFrameworkProject\EntitiesFrameworkProject\obj\Debug\EntitiesFrameworkProject.csprojResolveAssemblyReference.cache
+C:\Users\Axandr\documents\visual studio 2017\Projects\EntitiesFrameworkProject\EntitiesFrameworkProject\obj\Debug\EntitiesFrameworkProject.exe
+C:\Users\Axandr\documents\visual studio 2017\Projects\EntitiesFrameworkProject\EntitiesFrameworkProject\obj\Debug\EntitiesFrameworkProject.pdb
